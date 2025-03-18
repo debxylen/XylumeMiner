@@ -1,1 +1,1 @@
-# XylumeMiner
+# Xylume Miner
