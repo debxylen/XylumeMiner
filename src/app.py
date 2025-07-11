@@ -30,7 +30,7 @@ miner_running = False
 mining_thread = None
 traversalspeed = 0 # txs checked per second
 lastsubmissionerror, accepted, rejected = None, 0, 0
-rpc_url = ''
+rpc_url = 'https://xylume-testnet.sparked.network/'
 
 miner = Miner(rpc_url, miner_address)
 

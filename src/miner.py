@@ -94,7 +94,7 @@ class Miner:
         return result
 
 if __name__ == '__main__':
-    rpc_url = "https://xyl-testnet.glitch.me/"
+    rpc_url = "https://xylume-testnet.sparked.network/rpc"
     miner = Miner(rpc_url)
     while True:
         miner.mine()
